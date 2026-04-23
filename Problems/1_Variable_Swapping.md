@@ -31,7 +31,7 @@ function test() {
     var b = "8";
     
 /***********Do not change the code above 👆*******/
-//Write your code on lines 35 - 37:, 
+//Write your code on next 3 lines lines:, 
 
 
 
